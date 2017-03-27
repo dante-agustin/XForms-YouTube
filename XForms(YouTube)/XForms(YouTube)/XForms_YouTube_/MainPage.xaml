@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XForms_YouTube_"
+             x:Class="XForms_YouTube_.MainPage">
+
+   <StackLayout Padding="10,20,0,0">
+
+     <StackLayout Orientation="Horizontal" >
+       <Image  Source="user.png" WidthRequest="30"  HeightRequest="30" ></Image>
+       <Label Text="Home Page" FontSize="30" ></Label>
+       
+     </StackLayout>
+
+    <Entry x:Name="etNombre" Placeholder="Ingrese su nombre" ></Entry>
+    <Button Text="Guardar"  x:Name="btnSave" Clicked="BtnSave_Clicked"></Button>
+
+  </StackLayout>
+
+</ContentPage>

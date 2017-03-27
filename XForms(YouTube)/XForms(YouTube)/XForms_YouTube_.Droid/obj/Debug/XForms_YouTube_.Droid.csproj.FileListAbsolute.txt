@@ -1,0 +1,76 @@
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.apk
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid-Signed.apk
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.dll
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.pdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\android\bin\XForms_YouTube_.Droid.apk
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\values\styles.xml
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\R.cs.flag
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\uploadflags.txt
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable\user.png
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.dll.mdb
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.dll.mdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.apk
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid-Signed.apk
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.dll
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.pdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\android\bin\XForms_YouTube_.Droid.apk
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\values\styles.xml
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\res\drawable\user.png
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\R.cs.flag
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\uploadflags.txt
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\obj\Debug\XForms_YouTube_.Droid.dll.mdb
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Droid\bin\Debug\XForms_YouTube_.Droid.dll.mdb

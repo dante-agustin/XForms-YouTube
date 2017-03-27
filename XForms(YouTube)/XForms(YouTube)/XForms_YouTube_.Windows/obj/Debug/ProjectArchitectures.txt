@@ -1,0 +1,2 @@
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.Windows\XForms_YouTube_.Windows.csproj;neutral
+C:\Users\Dante\Documents\Visual Studio 2015\Projects\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_\XForms_YouTube_.csproj;neutral

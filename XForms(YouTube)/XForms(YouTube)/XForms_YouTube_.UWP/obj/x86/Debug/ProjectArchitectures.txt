@@ -1,0 +1,2 @@
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_.UWP\XForms_YouTube_.UWP.csproj;x86
+C:\Users\Dante\GitHub\Repos\XForms-YouTube\XForms(YouTube)\XForms(YouTube)\XForms_YouTube_\XForms_YouTube_.csproj;neutral
